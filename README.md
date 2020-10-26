@@ -14,6 +14,7 @@ In my free time I like to play (🎮), watch movies and series (📺), read book
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daviteixeira.btm@gmail.com)](mailto:daviteixeira.btm@gmail.com)
 
 <div align="center">
+  
 ### Show that you're awesome (💪) by starring in some of the repositories!
 </div>
 <!--
