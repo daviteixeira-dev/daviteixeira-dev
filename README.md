@@ -8,10 +8,6 @@ I am a reliable and hardworking professional, paid attention to details, I have 
 
 In my free time I like to play (🎮), watch movies and series (📺), read books (📚), listen to music (🎵) and drink a nice cup of coffee (☕️) while I exercise my detective profession in my spare time ( 🕵️‍♂️)
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&show_icons=true" alt="daviteixeira-btm"/> 
-</p>
-
 ##  Contact Me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronnyacacio/)](https://www.linkedin.com/in/daviteixeira-me/)
 [![Instagram badge](https://img.shields.io/badge/-Instagram-dc5273?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ronnyacacio)](https://www.instagram.com/daviteixeira.me/)
@@ -25,6 +21,10 @@ In my free time I like to play (🎮), watch movies and series (📺), read book
 **daviteixeira-btm/daviteixeira-btm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 📫 Entre em contato comigo pelo: [Linkedin](https://www.linkedin.com/in/daviteixeira-me/).
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&show_icons=true" alt="daviteixeira-btm"/> 
+</p>
 
 Here are some ideas to get you started:
 
