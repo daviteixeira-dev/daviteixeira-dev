@@ -15,7 +15,7 @@ In my free time I like to play (🎮), watch movies and series (📺), read book
 
 <div align="center">
   
-### Show that you're awesome (💪) by starring in some of the repositories!
+### Show that you're awesome 🤩 by starring in some of the repositories!
 </div>
 <!--
 **daviteixeira-btm/daviteixeira-btm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
