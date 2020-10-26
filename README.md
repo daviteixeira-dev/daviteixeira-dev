@@ -1,6 +1,9 @@
-### Hi there 👋
+### Oi Stalker, tudo bem? 🖖
 
-## 🦇 **_Davi Teixeira_** 🦇
+### 🦇 **_Davi Teixeira_** 🦇
+
+- 💬 Sou estudante de graduação em Sistemas de Informação e procuro experiências que me levem a uma formação profissional como desenvolvedor fullstack!
+- 📫 Entre em contato comigo pelo: [Linkedin](https://www.linkedin.com/in/daviteixeira-me/).
 
 <!--
 **daviteixeira-btm/daviteixeira-btm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
