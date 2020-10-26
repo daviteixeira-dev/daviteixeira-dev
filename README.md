@@ -6,7 +6,7 @@ My name is Davi Teixeira, from Brazil (🇧🇷). I am an undergraduate student 
 
 I am a reliable and hardworking professional, paid attention to details, I have excellent interpersonal and time management skills, I always seek professional improvement and experiences in IT and its technologies.
 
-In my free time I like to play (🎮), watch movies and series (📺), read books (📚), listen to music (🎵) and drink a nice cup of coffee (☕️) while I exercise my detective profession in my spare time ( 🕵️‍♂️)
+In my free time I like to play (🎮), watch movies and series (📺), read books (📚), listen to music (🎵) and drink a nice cup of coffee (☕️) while I exercise my detective profession in my spare time ( 🕵️‍♂️).
 
 ##  Contact Me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronnyacacio/)](https://www.linkedin.com/in/daviteixeira-me/)
