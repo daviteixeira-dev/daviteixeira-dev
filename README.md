@@ -1,6 +1,7 @@
 ### Oi Stalker, tudo bem? 🖖
 
 ### 🦇 **_Davi Teixeira_** 🦇
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daviteixeira-btm" alt="daviteixeira-btm" /> </p>
 
 My name is Davi Teixeira, from Brazil (🇧🇷). I am an undergraduate student in Information Systems at the Federal University of Ceará - Campus de Quixadá and I am looking for experiences that will lead me to a professional training as a fullstack developer!
 
