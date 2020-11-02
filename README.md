@@ -14,7 +14,7 @@ In my free time I like to play (🎮), watch movies and series (📺), read book
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daviteixeira.btm@gmail.com)](mailto:daviteixeira.btm@gmail.com)
 
 <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviteixeira-btm&hide=html&layout=compact&theme=dracula"/>
-<td><img width="395px" align="left" src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&theme=dracula"/>
+<td><img width="395px" align="left" src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&theme=dracula"/></br>
 
 <div align="center">
   
