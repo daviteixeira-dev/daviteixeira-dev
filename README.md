@@ -15,7 +15,7 @@ In my free time I like to play (🎮), watch movies and series (📺), read book
 
 <div align="center">
 <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviteixeira-btm&hide=html&layout=compact&theme=dracula"/>
-<td><img width="395px" align="left" src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&theme=dracula"/></br>
+<img width="395px" align="left" src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&theme=dracula"/></br>
 </div>
 
 <div align="center">
