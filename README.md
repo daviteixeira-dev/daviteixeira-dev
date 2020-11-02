@@ -15,13 +15,10 @@ In my free time I like to play (🎮), watch movies and series (📺), read book
 
 <div align="center">
 <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviteixeira-btm&hide=html&layout=compact&theme=dracula"/>
-<img width="395px" align="left" src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&theme=dracula"/></br>
+<img width="395px" align="left" src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&theme=dracula"/>
 </div>
 
-<div align="center">
-  
 ### Show that you're awesome 🤩 by starring in some of the repositories!
-</div>
 
 <!--
 **daviteixeira-btm/daviteixeira-btm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +28,11 @@ In my free time I like to play (🎮), watch movies and series (📺), read book
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&show_icons=true" alt="daviteixeira-btm"/> 
 </p>
+
+<div align="center">
+  
+### Show that you're awesome 🤩 by starring in some of the repositories!
+</div>
 
 Here are some ideas to get you started:
 
