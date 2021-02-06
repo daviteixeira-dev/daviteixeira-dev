@@ -22,7 +22,7 @@ Funy facts: In my free time I like to play (🎮), watch movies and series (📺
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daviteixeira-me/)](https://www.linkedin.com/in/daviteixeira-me/)
 [![Instagram badge](https://img.shields.io/badge/-Instagram-dc5273?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/daviteixeira.me)](https://www.instagram.com/daviteixeira.me/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daviteixeira.btm@gmail.com)](mailto:daviteixeira.btm@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@daviteixeira.btm)](https://medium.com/@daviteixeira.btm)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@daviteixeira.btm)](https://medium.com/@daviteixeira.btm)
 
 <div align="center">
 <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviteixeira-btm&hide=html&layout=compact&theme=dracula"/>
