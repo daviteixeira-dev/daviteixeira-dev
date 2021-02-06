@@ -19,8 +19,8 @@ Funy facts: In my free time I like to play (🎮), watch movies and series (📺
 </div>
 
 ##  Contact Me :speech_balloon:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronnyacacio/)](https://www.linkedin.com/in/daviteixeira-me/)
-[![Instagram badge](https://img.shields.io/badge/-Instagram-dc5273?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ronnyacacio)](https://www.instagram.com/daviteixeira.me/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daviteixeira-me/)](https://www.linkedin.com/in/daviteixeira-me/)
+[![Instagram badge](https://img.shields.io/badge/-Instagram-dc5273?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/daviteixeira.me)](https://www.instagram.com/daviteixeira.me/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daviteixeira.btm@gmail.com)](mailto:daviteixeira.btm@gmail.com)
 
 <div align="center">
