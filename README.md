@@ -2,14 +2,18 @@
 
 ### 🦇 **_Davi Teixeira_** 🦇
 
-My name is Davi Teixeira, from Brazil (🇧🇷). I am an undergraduate student in Information Systems at the Federal University of Ceará - Campus de Quixadá and I am looking for experiences that will lead me to a professional training as a fullstack developer!
+My name is Davi Teixeira, from Brazil (🇧🇷). I am an undergraduate student in Information Systems at the Federal University of Ceará - Campus de Quixadá and I am looking for experiences that will lead me to a professional training as a front-end developer!
 
-I am a reliable and hardworking professional, paid attention to details, I have excellent interpersonal and time management skills, I always seek professional improvement and experiences in IT and its technologies.
+Funy facts: In my free time I like to play (🎮), watch movies and series (📺), read books (📚), listen to music (🎵) and drink a nice cup of coffee (☕️) while I exercise my detective profession in my spare time ( 🕵️‍♂️).
 
-In my free time I like to play (🎮), watch movies and series (📺), read books (📚), listen to music (🎵) and drink a nice cup of coffee (☕️) while I exercise my detective profession in my spare time ( 🕵️‍♂️).
+🌱 I’m currently learning ...
+- JavaScript
+- NodeJS
+- ReactJS
+- React Native
+
 
 <div align="center">
-  
 ### Show that you're awesome 🤩 by starring in some of the repositories!
 </div>
 
