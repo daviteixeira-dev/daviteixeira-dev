@@ -1,4 +1,4 @@
-<h1> Oi Stalker, tudo bem? 🖖 </h1>
+<h1> Oi Stalker, tudo bem? 👨🏽‍💻🖖</h1>
 
 ### 🦇 **_Davi Teixeira_** 🦇
 
