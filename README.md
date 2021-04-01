@@ -28,32 +28,3 @@ Funy facts: In my free time I like to play (🎮), watch movies and series (📺
 <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviteixeira-btm&hide=html&layout=compact&theme=dracula"/>
 <img width="395px" align="center" src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&theme=dracula"/>
 </div>
-
-<!--
-**daviteixeira-btm/daviteixeira-btm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />]()
-
-- 📫 Entre em contato comigo pelo: [Linkedin](https://www.linkedin.com/in/daviteixeira-me/).
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&show_icons=true" alt="daviteixeira-btm"/> 
-</p>
-
-<div align="center">
-  
-### Show that you're awesome 🤩 by starring in some of the repositories!
-</div>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
