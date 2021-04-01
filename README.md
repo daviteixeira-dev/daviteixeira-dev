@@ -40,5 +40,5 @@ I currently work with the following technologies:
 
 <div align="center">
 <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviteixeira-btm&hide=html&layout=compact&theme=gotham"/>
-<img width="395px" align="center" src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&theme=gotham"/>
+<img width="360px" align="center" src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&theme=gotham"/>
 </div>
