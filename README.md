@@ -41,5 +41,5 @@ I currently work with the following technologies:
 <div align="center">
   <a href="https://github.com/daviteixeira-btm">
   <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviteixeira-btm&layout=compact&langs_count=8&theme=gotham"/>
-  <img width="360px" align="center" src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img width="480px" align="center" src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
