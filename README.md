@@ -39,6 +39,7 @@ I currently work with the following technologies:
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@daviteixeira.btm)
 
 <div align="center">
-<img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviteixeira-btm&hide=html&layout=compact&theme=gotham"/>
-<img width="360px" align="center" src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&theme=gotham"/>
+  <a href="https://github.com/daviteixeira-btm">
+  <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviteixeira-btm&layout=compact&langs_count=8&theme=gotham"/>
+  <img width="360px" align="center" src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
