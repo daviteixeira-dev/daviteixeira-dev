@@ -1,7 +1,7 @@
 <h1> Oi Stalker, tudo bem? 🖖</h1>
 
 ### 🦇 **_Davi Teixeira_** 🦇
-<img src="https://image.freepik.com/vetores-gratis/ilustracao-do-icone-dos-desenhos-animados-do-laptop-smartphone-e-fone-de-ouvido-conceito-de-icone-de-tecnologia-de-negocios-isolado-estilo-flat-cartoon_138676-2139.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Davi Teixeira">
+<img src="img-index-readme.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Davi Teixeira">
 
 My name is Davi Teixeira, from Brazil (🇧🇷). I am an undergraduate student in Information Systems at the Federal University of Ceará - Campus de Quixadá and I am looking for experiences that will lead me to a professional training as a front-end developer!
 
@@ -13,6 +13,7 @@ I currently work with the following technologies:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -39,6 +40,7 @@ I currently work with the following technologies:
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@daviteixeira.btm)
 
 <div align="center">
-<img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviteixeira-btm&hide=html&layout=compact&theme=gotham"/>
-<img width="360px" align="center" src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&theme=gotham"/>
+  <a href="https://github.com/daviteixeira-btm">
+  <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviteixeira-btm&layout=compact&langs_count=8&theme=gotham"/>
+  <img width="480px" align="center" src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
