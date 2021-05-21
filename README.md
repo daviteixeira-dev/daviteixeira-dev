@@ -1,7 +1,7 @@
 <h1> Oi Stalker, tudo bem? 🖖</h1>
 
 ### 🦇 **_Davi Teixeira_** 🦇
-<img src="logo-daviteixeira-dev.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Davi Teixeira">
+<img src="logo-daviteixeira-dev.png" min-width="400px" max-width="250px" width="250px" align="right" alt="Computador Davi Teixeira">
 
 My name is Davi Teixeira, from Brazil (🇧🇷). I am an undergraduate student in Information Systems at the Federal University of Ceará - Campus de Quixadá and I am looking for experiences that will lead me to a professional training as a front-end developer!
 
