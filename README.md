@@ -45,6 +45,10 @@ I currently work with the following technologies:
     <img align="center" alt="Davi-Node.js" height="40" width="40"
        src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png">
   </a>
+  <a href="https://jquery.com/" target="_blank">
+    <img align="center" alt="Davi-jQuery" height="40" width="40"
+       src="https://wallacesilva.com/blog/wp-content/uploads/2015/08/jQuery-logo.png">
+  </a>
 </div>
 
 ### 🌱 I’m currently learning
