@@ -39,11 +39,11 @@ I currently work with the following technologies:
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
     <img align="center" alt="Davi-Bootstrap" height="40" width="40"
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   </a>
   <a href="https://nodejs.org/en/" target="_blank">
     <img align="center" alt="Davi-Node.js" height="40" width="40"
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+       src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png">
   </a>
 </div>
 
@@ -64,7 +64,7 @@ I currently work with the following technologies:
   </a>
   <a href="https://pt-br.reactjs.org/" target="_blank">
     <img align="center" alt="Davi-React" height="40" width="40"
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
   </a>
   <a href="https://angular.io/" target="_blank">
     <img align="center" alt="Davi-Angular" height="40" width="40"
