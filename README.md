@@ -49,6 +49,10 @@ I currently work with the following technologies:
     <img align="center" alt="Davi-jQuery" height="40" width="40"
        src="https://wallacesilva.com/blog/wp-content/uploads/2015/08/jQuery-logo.png">
   </a>
+  <a href="https://gulpjs.com/" target="_blank">
+    <img align="center" alt="Davi-Gulp" height="40" width="40"
+       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png">
+  </a>
 </div>
 
 ### 🌱 I’m currently learning
