@@ -53,6 +53,10 @@ I currently work with the following technologies:
     <img align="center" alt="Davi-Gulp" height="40" width="40"
        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png">
   </a>
+  <a href="https://ejs.co/" target="_blank">
+    <img align="center" alt="Davi-EJS" height="40" width="40"
+       src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png">
+  </a>
 </div>
 
 ### 🌱 I’m currently learning
