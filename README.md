@@ -94,6 +94,7 @@ I currently work with the following technologies:
 [![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daviteixeira.dev/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviteixeira.dev@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@daviteixeira.btm)
+[![Counter](https://komarev.com/ghpvc/?username=daviteixeira-btm&color=brightgreen)](https://www.daviteixeira.dev.br)
 
 <div align="center">
   <a href="https://github.com/daviteixeira-btm">
