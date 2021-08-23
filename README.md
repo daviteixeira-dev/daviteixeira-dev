@@ -1,10 +1,12 @@
 <h1> Oi Stalker, tudo bem? 🖖</h1>
 
 ### 🦇 **_Davi Teixeira_** 🦇
-<a href="https://daviteixeira-btm.github.io/" target="_blank"><img src="logo-daviteixeira-dev.png" min-width="400px" max-width="250px" width="250px" align="right" alt="Computador Davi Teixeira" target="_blank"></a>
+
 My name is Davi Teixeira, from Brazil (🇧🇷). I am an undergraduate student in Information Systems at the Federal University of Ceará - Campus de Quixadá and I am looking for experiences that will lead me to a professional training as a front-end developer!
 
 Funy facts: In my free time I like to play (🎮), watch movies and series (📺), read books (📚), listen to music (🎵) and drink a nice cup of coffee (☕️) while I exercise my detective profession in my spare time ( 🕵️‍♂️).
+
+<a href="https://daviteixeira-btm.github.io/" target="_blank"><img src="logo-daviteixeira-dev.png" min-width="400px" max-width="250px" width="250px" align="right" alt="Computador Davi Teixeira" target="_blank"></a>
 
 ### 🚀 Skills
 I currently work with the following technologies:
