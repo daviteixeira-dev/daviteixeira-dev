@@ -6,90 +6,101 @@ My name is Davi Teixeira, from Brazil (🇧🇷). I am an undergraduate student 
 
 Funy facts: In my free time I like to play (🎮), watch movies and series (📺), read books (📚), listen to music (🎵) and drink a nice cup of coffee (☕️) while I exercise my detective profession in my spare time ( 🕵️‍♂️).
 
+<!--
 <a href="https://daviteixeira-btm.github.io/" target="_blank"><img src="logo-daviteixeira-dev.png" min-width="400px" max-width="250px" width="250px" align="right" alt="Computador Davi Teixeira" target="_blank"></a>
-
-### 🚀 Skills
-I currently work with the following technologies:
-
-<!--
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
 -->
 
-<div style="display: inline_block">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img align="center" alt="Davi-HTML" height="40" width="40"
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img align="center" alt="Davi-CSS" height="40" width="40"
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img align="center" alt="Davi-JavaScript" height="40" width="40"
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  </a>
-  <a href="https://sass-lang.com/" target="_blank">
-    <img align="center" alt="Davi-SASS" height="40" width="40"
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img align="center" alt="Davi-Bootstrap" height="40" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img align="center" alt="Davi-Node.js" height="40" width="40"
-       src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png">
-  </a>
-  <a href="https://jquery.com/" target="_blank">
-    <img align="center" alt="Davi-jQuery" height="40" width="40"
-       src="https://wallacesilva.com/blog/wp-content/uploads/2015/08/jQuery-logo.png">
-  </a>
-  <a href="https://gulpjs.com/" target="_blank">
-    <img align="center" alt="Davi-Gulp" height="40" width="40"
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png">
-  </a>
-  <a href="https://ejs.co/" target="_blank">
-    <img align="center" alt="Davi-EJS" height="40" width="40"
-       src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png">
-  </a>
-</div>
+<h2 align="left"> 🚀 Skills </h2>
 
-### 🌱 I’m currently learning
+> I currently work with the following technologies:
 
-<!--
-<p>
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-</p>
--->
+<table align="center">
+  <!-- First Line -->
+  <tr>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+        <img src="img/Html5-logo.png" width="48" height="48" alt="HTML 5" />
+      </a>
+      <br>HTML 5
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+        <img src="img/Css3-logo.png" width="48" height="48" alt="CSS 3" />
+      </a>
+      <br>CSS 3
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+        <img src="img/JavaScript-logo.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://sass-lang.com/">
+        <img src="img/Sass-logo.png" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>    
+    <td align="center" width="96">
+      <a href="https://getbootstrap.com/">
+        <img src="img/Bootstrap-logo.png" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="https://nodejs.org/en/">
+        <img src="img/Nodejs-logo.png" width="48" height="48" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+    <td align="center" width="96">
+      <a href="https://jquery.com/">
+        <img src="img/jQuery-logo.png" width="48" height="48" alt="jQuery" />
+      </a>
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+      <a href="https://gulpjs.com/">
+        <img src="img/Gulp-logo.png" width="48" height="48" alt="Gulp" />
+      </a>
+      <br>Gulp
+    </td>
+    <td align="center" width="96"> 
+      <a href="https://ejs.co/" >
+        <img src="img/EJS-logo.png" width="48" height="48" alt="EJS" />
+      </a>
+      <br>EJS
+    </td>
+  </tr>
+  <!-- End of First Line -->
+</table>
 
-<div style="display: inline_block">
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img align="center" alt="Davi-TypeScript" height="40" width="40"
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-  </a>
-  <a href="https://pt-br.reactjs.org/" target="_blank">
-    <img align="center" alt="Davi-React" height="40" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  </a>
-  <a href="https://angular.io/" target="_blank">
-    <img align="center" alt="Davi-Angular" height="40" width="40"
-       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-  </a>
-</div>
+<h2 align="left"> 🌱 I’m currently learning </h2>
 
-<div align="center">
-  
-  ### Show that you're awesome 🤩 by starring in some of the repositories!
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/" >
+        <img src="img/TypeScript-logo.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://angular.io/" >
+        <img src="img/Angular-logo.png" width="48" height="48" alt="Angular" />
+      </a>
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <a href="https://pt-br.reactjs.org/" >
+        <img src="img/React-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+  </tr>
+</table>
+
+> Show that you're awesome 🤩 by starring in some of the repositories!
 
 ##  Contact Me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link)](https://www.linkedin.com/in/daviteixeira-me/)
