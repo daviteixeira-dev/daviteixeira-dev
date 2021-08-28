@@ -83,11 +83,25 @@
       </a>
       <br>Gulp
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96"> 
       <a href="https://ejs.co/" >
         <img src="img/EJS-logo.png" width="48" height="48" alt="EJS" />
       </a>
       <br>EJS
+    </td>
+    <td align="center" width="96"> 
+      <a href="https://sites.google.com" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Google_Sites_icon_%282020%29.svg/1200px-Google_Sites_icon_%282020%29.svg.png" width="48" height="48" alt="Google Sites" />
+      </a>
+      <br>G. Sites
+    </td>
+    <td align="center" width="96"> 
+      <a href="https://wordpress.com" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" width="48" height="48" alt="Wordpress" />
+      </a>
+      <br>Wordpress
     </td>
   </tr>
   <!-- End of First Line -->
