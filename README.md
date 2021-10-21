@@ -6,7 +6,8 @@
   <tr>
     <td>
       <p>
-        My name is Davi Teixeira, from Brazil (🇧🇷). I am an undergraduate student in Information Systems at the Federal University of Ceará - Campus de Quixadá and I am         looking for experiences that will lead me to a professional training as a front-end developer!
+        My name is Davi Teixeira, from Brazil (🇧🇷). I am an undergraduate student in Information Systems at the Federal University of Ceará - Campus de Quixadá
+        and I am looking for experiences that will lead me to a professional training as a front-end developer!
       </p>
     </td>
     <td rowspan="2">
@@ -18,7 +19,9 @@
   <tr>
     <td>
       <p>
-        <strong>Funy facts:</strong> In my free time I like to play (🎮), watch movies and series (📺), read books (📚), listen to music (🎵) and drink a nice cup of           coffee (☕️) while I exercise my detective profession in my spare time ( 🕵️‍♂️).
+        <strong>Funy facts:</strong> In my free time I like to play (🎮), 
+        watch movies and series (📺), read books (📚), listen to music (🎵) and drink a nice cup of 
+        coffee (☕️) while I exercise my detective profession in my spare time ( 🕵️‍♂️).
       </p>
     </td>
   </tr>
@@ -89,29 +92,29 @@
     </td>
     <td align="center" width="96"> 
       <a href="https://sites.google.com" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Google_Sites_icon_%282020%29.svg/1200px-Google_Sites_icon_%282020%29.svg.png" width="48" height="48" alt="Google Sites" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Google_Sites_icon_%282020%29.svg/1200px-Google_Sites_icon_%282020%29.svg.png" 
+             width="48" height="48" alt="Google Sites" />
       </a>
       <br>G. Sites
     </td>
     <td align="center" width="96"> 
       <a href="https://wordpress.com" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" width="48" height="48" alt="Wordpress" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" 
+             width="48" height="48" alt="Wordpress" />
       </a>
       <br>Wordpress
     </td>
-  </tr>
-  <!-- End of First Line -->
-</table>
-
-<h2 align="left"> 🌱 I’m currently learning </h2>
-
-<table align="center">
-  <tr>
     <td align="center" width="96">
       <a href="https://www.typescriptlang.org/" >
         <img src="img/TypeScript-logo.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://pt-br.reactjs.org/" >
+        <img src="img/React-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React
     </td>
     <td align="center" width="96">
       <a href="https://angular.io/" >
@@ -120,12 +123,14 @@
       <br>Angular
     </td>
     <td align="center" width="96">
-      <a href="https://pt-br.reactjs.org/" >
-        <img src="img/React-logo.png" width="48" height="48" alt="React" />
+      <a href="https://mui.com/" >
+        <img src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" 
+             width="48" height="48" alt="Material UI" />
       </a>
-      <br>React
+      <br>MUI
     </td>
   </tr>
+  <!-- End of First Line -->
 </table>
 
 <br />
