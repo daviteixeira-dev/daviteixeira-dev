@@ -117,12 +117,6 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="https://angular.io/" >
-        <img src="img/Angular-logo.png" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
-    </td>
-    <td align="center" width="96">
       <a href="https://mui.com/" >
         <img src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" 
              width="48" height="48" alt="Material UI" />
@@ -148,8 +142,8 @@
 
 <div align="center">
   <a href="https://github.com/daviteixeira-btm">
-  <img width="350px" align="center" 
+  <img width="300px" align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviteixeira-btm&layout=compact&langs_count=8&theme=gotham"/>
-  <img width="480px" align="center" 
+  <img width="420px" align="center" 
        src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
