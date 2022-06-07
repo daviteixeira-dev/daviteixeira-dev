@@ -76,12 +76,7 @@
       </a>
       <br>jQuery
     </td>
-    <td align="center" width="96">
-      <a href="https://gulpjs.com/">
-        <img src="img/Gulp-logo.png" width="48" height="48" alt="Gulp" />
-      </a>
-      <br>Gulp
-    </td>
+    
   </tr>
   <tr>
     <td align="center" width="96"> 
