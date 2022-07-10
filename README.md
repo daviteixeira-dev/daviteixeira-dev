@@ -117,9 +117,20 @@
 
 <br />
 
+<h2 align="left"> Trophies and points 🏆 </h2>
+
+> Just a few points from this Dev:
+
+<br />
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daviteixeira-btm&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 <h3 align="left"> Contact Me :speech_balloon: </h3>
 
 > And show that you're awesome 🤩 by starring in some of the repositories!
+
 <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link)](https://www.linkedin.com/in/daviteixeira-me/)
