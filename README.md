@@ -43,7 +43,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-        <img src="img/javascript.webp" width="48" height="48" alt="JavaScript" />
+        <img src="img/javascript.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
@@ -55,7 +55,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://sass-lang.com/">
-        <img src="img/sass.webp" width="48" height="48" alt="Sass" />
+        <img src="img/sass.png" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
