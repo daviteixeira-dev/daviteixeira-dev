@@ -1,17 +1,14 @@
-<h1> Hi, how are you? 🖖 </h1>
-
-> 🦇 **_Davi Teixeira_** 🦇
+<h1>Hi, my name is Davi Teixeira</h1>
 
 <table align="center">
   <tr>
     <td>
       <p>
-        My name is Davi Teixeira, from Brazil (🇧🇷). I am an undergraduate student in Information Systems at the Federal University of Ceará - Campus de Quixadá
-        and I am looking for experiences that will lead me to a professional training as a front-end developer!
+        Graduating in Information Systems at the Federal University of Ceará. I'm a Front-end Developer passionate about taking ideas off paper and turning them into code.
       </p>
     </td>
     <td rowspan="2">
-      <a href="https://daviteixeira-btm.github.io/">
+      <a href="https://daviteixeira.dev.br">
         <img src="img/logo-daviteixeira-dev.png" width="200" align="right" alt="Computador Davi Teixeira" target="_blank">
       </a>
     </td>
@@ -19,9 +16,7 @@
   <tr>
     <td>
       <p>
-        <strong>Funy facts:</strong> In my free time I like to play (🎮), 
-        watch movies and series (📺), read books (📚), listen to music (🎵) and drink a nice cup of 
-        coffee (☕️) while I exercise my detective profession in my spare time ( 🕵️‍♂️).
+        So, I've been working on projects focusing on topics related to Responsiveness, Web Accessibility and SEO.
       </p>
     </td>
   </tr>
@@ -109,16 +104,6 @@
 </table>
 
 <br />
-
-<h2 align="left"> Trophies and points 🏆 </h2>
-
-> Just a few points from this Dev:
-
-<br />
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daviteixeira-btm&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <h3 align="left"> Contact Me :speech_balloon: </h3>
 
