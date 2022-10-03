@@ -36,80 +36,73 @@
   <tr>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-        <img src="img/Html5-logo.png" width="48" height="48" alt="HTML 5" />
+        <img src="img/html5.png" width="48" height="48" alt="HTML 5" />
       </a>
       <br>HTML 5
     </td>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-        <img src="img/Css3-logo.png" width="48" height="48" alt="CSS 3" />
+        <img src="img/css3.png" width="48" height="48" alt="CSS 3" />
       </a>
       <br>CSS 3
     </td>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-        <img src="img/JavaScript-logo.png" width="48" height="48" alt="JavaScript" />
+        <img src="img/javascript.webp" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="https://sass-lang.com/">
-        <img src="img/Sass-logo.png" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>    
-    <td align="center" width="96">
-      <a href="https://getbootstrap.com/">
-        <img src="img/Bootstrap-logo.png" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="https://nodejs.org/en/">
-        <img src="img/Nodejs-logo.png" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-    <td align="center" width="96">
-      <a href="https://jquery.com/">
-        <img src="img/jQuery-logo.png" width="48" height="48" alt="jQuery" />
-      </a>
-      <br>jQuery
-    </td>
-    
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="https://ejs.co/" >
-        <img src="img/EJS-logo.png" width="48" height="48" alt="EJS" />
-      </a>
-      <br>EJS
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://wordpress.com" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" 
-             width="48" height="48" alt="Wordpress" />
-      </a>
-      <br>Wordpress
-    </td>
-    <td align="center" width="96">
       <a href="https://www.typescriptlang.org/" >
-        <img src="img/TypeScript-logo.png" width="48" height="48" alt="TypeScript" />
+        <img src="img/typescript.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="https://pt-br.reactjs.org/" >
-        <img src="img/React-logo.png" width="48" height="48" alt="React" />
+      <a href="https://sass-lang.com/">
+        <img src="img/sass.webp" width="48" height="48" alt="Sass" />
       </a>
-      <br>React
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <a href="https://styled-components.com/">
+        <img src="img/styled-components.png" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Styled C.
+    </td>
+    <td align="center" width="96">
+      <a href="https://getbootstrap.com/">
+        <img src="img/bootstrap.png" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="https://jquery.com/">
+        <img src="img/jquery.png" width="48" height="48" alt="jQuery" />
+      </a>
+      <br>jQuery
+    </td> 
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://pt-br.reactjs.org/" >
+        <img src="img/reactjs.png" width="48" height="48" alt="React" />
+      </a>
+      <br>ReactJS
     </td>
     <td align="center" width="96">
       <a href="https://mui.com/" >
-        <img src="https://camo.githubusercontent.com/306dedb9426f1d93a981d305a0a18164932ece8dca4d5fd820b1d3c36625b218/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" 
+        <img src="img/material-ui.png" 
              width="48" height="48" alt="Material UI" />
       </a>
       <br>MUI
+    </td>
+    <td align="center" width="96">
+      <a href="https://chakra-ui.com/" >
+        <img src="img/chakra-ui.png" 
+             width="48" height="48" alt="Material UI" />
+      </a>
+      <br>Chakra UI
     </td>
   </tr>
   <!-- End of First Line -->
