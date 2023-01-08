@@ -99,6 +99,41 @@
       </a>
       <br>Chakra UI
     </td>
+    <td align="center" width="96">
+      <a href="https://tailwindcss.com/" >
+        <img src="img/tailwindcss.png" 
+             width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="https://testing-library.com/" >
+        <img src="img/react-testing-library.png" 
+             width="48" height="48" alt="React Testing Library" />
+      </a>
+      <br>React T.L
+    </td>
+    <td align="center" width="96">
+      <a href="https://jestjs.io/pt-BR/" >
+        <img src="img/jest.png" 
+             width="48" height="48" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.figma.com/" >
+        <img src="img/figma.png" 
+             width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="https://storybook.js.org/" >
+        <img src="img/storybook.png" 
+             width="48" height="48" alt="Storybook" />
+      </a>
+      <br>Storybook
+    </td>
   </tr>
   <!-- End of First Line -->
 </table>
