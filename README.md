@@ -2,19 +2,20 @@
 
 <table align="center">
   <tr>
-    <td>
+    <td align="center">
       <p>
         Graduating in Information Systems at the Federal University of Ceará. I'm a Front-end Developer passionate about taking ideas off paper and turning them into code.
       </p>
     </td>
-    <td rowspan="2">
+    <td rowspan="2" align="center">
       <a href="https://daviteixeira.dev.br">
-        <img src="img/logo-daviteixeira-dev.png" width="200" align="right" alt="Computador Davi Teixeira" target="_blank">
+        <img src="img/logo-daviteixeira-dev.png" width="400" align="center" alt="Computador Davi Teixeira" target="_blank">
       </a>
+      See my Website
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <p>
         So, I've been working on projects focusing on topics related to Responsiveness, Web Accessibility and SEO.
       </p>
@@ -24,7 +25,7 @@
 
 <h2 align="left"> 🚀 Skills </h2>
 
-> Tools, languages, and other things that I like to work with:
+> Click and see more about the Tools, Languages and other technologies I like to work with:
 
 <table align="center">
   <!-- First Line -->
