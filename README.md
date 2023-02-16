@@ -9,7 +9,7 @@
     </td>
     <td rowspan="2" align="center">
       <a href="https://daviteixeira.dev.br">
-        <img src="img/logo-daviteixeira-dev.png" width="400" align="center" alt="Computador Davi Teixeira" target="_blank">
+        <img src="img/logo-daviteixeira-dev.png" width="300" align="center" alt="Computador Davi Teixeira" target="_blank">
       </a>
       See my Website
     </td>
