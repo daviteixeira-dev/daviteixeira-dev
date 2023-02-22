@@ -1,5 +1,3 @@
-<h1>Hi, my name is Davi Teixeira</h1>
-
 <table align="center">
   <tr>
     <td align="center">
