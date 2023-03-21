@@ -137,24 +137,26 @@
   <!-- End of First Line -->
 </table>
 
-<br />
+<br/>
+
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+  <br/>
+  <a href="https://github.com/daviteixeira-btm">
+  <img width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviteixeira-btm&layout=compact&langs_count=8&theme=gotham"/>
+  <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+</details>
+
+<br/>
 
 <h3 align="left"> Contact Me :speech_balloon: </h3>
 
 > And show that you're awesome 🤩 by starring in some of the repositories!
 
-<br />
+<br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link)](https://www.linkedin.com/in/daviteixeira-me/)
 [![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daviteixeira.dev/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviteixeira.dev@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@daviteixeira.btm)
 [![Counter](https://komarev.com/ghpvc/?username=daviteixeira-btm&color=brightgreen)](https://www.daviteixeira.dev.br)
-
-<div align="center">
-  <a href="https://github.com/daviteixeira-btm">
-  <img width="300px" align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviteixeira-btm&layout=compact&langs_count=8&theme=gotham"/>
-  <img width="420px" align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-</div>
