@@ -79,6 +79,30 @@
   </tr>
   <tr>
     <td align="center" width="96">
+      <a href="https://nodejs.org/en" >
+        <img src="img/nodejs.png" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="https://expressjs.com/pt-br/" >
+        <img src="img/expressjs.png" width="48" height="48" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a href="https://adonisjs.com/" >
+        <img src="img/adonisjs.png" width="48" height="48" alt="AdonisJS" />
+      </a>
+      <br>AdonisJS
+    </td>
+    <td align="center" width="96">
+      <a href="https://angular.io/" >
+        <img src="img/angular.png" width="48" height="48" alt="Algular" />
+      </a>
+      <br>Angular
+    </td>
+    <td align="center" width="96">
       <a href="https://pt-br.reactjs.org/" >
         <img src="img/reactjs.png" width="48" height="48" alt="React" />
       </a>
@@ -105,6 +129,8 @@
       </a>
       <br>Tailwind
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://testing-library.com/" >
         <img src="img/react-testing-library.png" 
@@ -132,6 +158,34 @@
              width="48" height="48" alt="Storybook" />
       </a>
       <br>Storybook
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.java.com/pt-BR/" >
+        <img src="img/java.png" 
+             width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/" >
+        <img src="img/mysql.png" 
+             width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.postgresql.org/" >
+        <img src="img/postgresql.png" 
+             width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.selenium.dev/" >
+        <img src="img/selenium.png" 
+             width="48" height="48" alt="Selenium" />
+      </a>
+      <br>Selenium
     </td>
   </tr>
   <!-- End of First Line -->
