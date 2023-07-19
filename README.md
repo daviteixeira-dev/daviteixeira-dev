@@ -4,7 +4,7 @@
 #### Click here: <a href="https://daviteixeira.dev.br"><img src="img/logo-daviteixeira-dev.png" width="30" align="center" alt="Computador Davi Teixeira"></a> to see my portfolio website.
 ---
 
-### I'm currently working with:
+> I'm currently working with:
 <ul>
   <li><b>Front-end</b>: <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="img/html5.png" width="30" height="30" alt="HTML 5" align="center"/></a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="img/css3.png" width="30" height="30" alt="CSS 3" align="center"/></a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="img/javascript.png" width="30" height="30" alt="JavaScript" align="center"/></a> <a href="https://www.typescriptlang.org/"><img src="img/typescript.png" width="30" height="30" alt="TypeScript" align="center"/></a></li>
   <li><b>Stylization</b>: <a href="https://sass-lang.com/"><img src="img/sass.png" width="30" height="30" alt="Sass" align="center"/></a> <a href="https://styled-components.com/"><img src="img/styled-components.png" width="30" height="30" alt="Styled Components" align="center"/></a></li>
@@ -19,16 +19,6 @@
 
 ---
 
-
-
-<h2 align="left"> 🚀 Skills </h2>
-
-> Click and see more about the Tools, Languages and other technologies I like to work with:
-
-
-
-<br/>
-
 <details>
   <summary><b>⚡ Github Stats</b></summary>
   <br/>
@@ -37,13 +27,11 @@
   <img width="420px" align="center" src="https://github-readme-stats.vercel.app/api?username=daviteixeira-btm&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </details>
 
-<br/>
+---
 
 <h3 align="left"> Contact Me :speech_balloon: </h3>
 
 > And show that you're awesome 🤩 by starring in some of the repositories!
-
-<br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link)](https://www.linkedin.com/in/daviteixeira-me/)
 [![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daviteixeira.dev/)
