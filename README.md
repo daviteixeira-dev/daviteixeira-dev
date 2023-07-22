@@ -1,7 +1,12 @@
 # ✌🏾 Hello everybody!
-#### ✍🏾 Briefly, talking a little about myself:
-#### I'm an Information Systems student, I work with Front-end development and Automated Testing and in my free time I like to do some cool projects.
-#### Click here: <a href="https://daviteixeira.dev.br"><img src="img/logo-daviteixeira-dev.png" width="30" align="center" alt="Website logo of Davi Teixeira"></a> to see my portfolio website.
+> ✍🏾 Briefly, talking a little about myself:
+<ul>
+  <li>
+    I'm an <b><i>Information Systems</i></b> student at <a href="https://www.quixada.ufc.br/">UFC</a>, I work with <b><i>Front-end development</i></b> and <b><i>Automated Testing</i></b> and in my free time I like to do some cool projects.
+  </li>
+</ul>
+
+#### ➡️ Click here on this logo: <a href="https://daviteixeira.dev.br"><img src="img/logo-daviteixeira-dev.png" width="35" height="35" align="center" alt="Website logo of Davi Teixeira"></a> to see my portfolio website.
 ---
 
 > 👨🏾‍💻 I'm currently working with:
@@ -29,12 +34,10 @@
 
 ---
 
-<h3 align="left"> Contact Me :speech_balloon: </h3>
+#### Contact Me :speech_balloon:
 
-> And show that you're awesome 🤩 by starring in some of the repositories!
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link)](https://www.linkedin.com/in/daviteixeira-me/)
-[![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daviteixeira.dev/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daviteixeira.dev@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@daviteixeira.btm)
+[![](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daviteixeira-me/)
+[![](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/daviteixeira.dev/)
+[![](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:daviteixeira.dev@gmail.com)
+[![](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@daviteixeira.btm)
 [![Counter](https://komarev.com/ghpvc/?username=daviteixeira-btm&color=brightgreen)](https://www.daviteixeira.dev.br)
