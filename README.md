@@ -1,10 +1,10 @@
-# ✌️ Hello,
-#### Briefly, talking a little about myself:
-#### I'm an Information Systems student, I work with Front-end development and Automated Testing and in my free time I like to do some cool projects. 👨🏾‍💻
-#### Click here: <a href="https://daviteixeira.dev.br"><img src="img/logo-daviteixeira-dev.png" width="30" align="center" alt="Computador Davi Teixeira"></a> to see my portfolio website.
+# ✌🏾 Hello everybody!
+#### ✍🏾 Briefly, talking a little about myself:
+#### I'm an Information Systems student, I work with Front-end development and Automated Testing and in my free time I like to do some cool projects.
+#### Click here: <a href="https://daviteixeira.dev.br"><img src="img/logo-daviteixeira-dev.png" width="30" align="center" alt="Website logo of Davi Teixeira"></a> to see my portfolio website.
 ---
 
-> I'm currently working with:
+> 👨🏾‍💻 I'm currently working with:
 <ul>
   <li><b>Front-end</b>: <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="img/html5.png" width="30" height="30" alt="HTML 5" align="center"/></a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="img/css3.png" width="30" height="30" alt="CSS 3" align="center"/></a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="img/javascript.png" width="30" height="30" alt="JavaScript" align="center"/></a> <a href="https://www.typescriptlang.org/"><img src="img/typescript.png" width="30" height="30" alt="TypeScript" align="center"/></a></li>
   <li><b>Stylization</b>: <a href="https://sass-lang.com/"><img src="img/sass.png" width="30" height="30" alt="Sass" align="center"/></a> <a href="https://styled-components.com/"><img src="img/styled-components.png" width="30" height="30" alt="Styled Components" align="center"/></a></li>
