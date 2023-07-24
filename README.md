@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/daviteixeira-btm"><img align="right" src="https://github.com/daviteixeira-btm/daviteixeira-btm/blob/master/devcard.svg" width="300" alt="Davi Teixeira's Dev Card"/></a>
+<a href="https://app.daily.dev/daviteixeira-btm"><img align="right" src="https://github.com/daviteixeira-btm/daviteixeira-btm/blob/main/devcard.svg" width="300" alt="Davi Teixeira's Dev Card"/></a>
 # ✌🏾 Hello everybody!
 > ✍🏾 Briefly, talking a little about myself:
 <ul>
