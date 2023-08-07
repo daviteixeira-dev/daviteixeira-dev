@@ -10,7 +10,7 @@
 #### ➡️ Click here on this logo: <a href="https://daviteixeira.dev.br"><img src="img/logo-daviteixeira-dev.png" width="35" height="35" align="center" alt="Website logo of Davi Teixeira"></a> to see my portfolio website.
 ---
 
-> 👨🏾‍💻 I'm currently working with:
+> 👨🏾‍💻 I'm currently studying the technologies below, some just getting started and others I can already use for work. By clicking on each one you can go to its official page.
 <ul>
   <li><b>Front-end</b>: <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="img/html5.png" width="20" height="20" alt="HTML 5" align="center"/></a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="img/css3.png" width="20" height="20" alt="CSS 3" align="center"/></a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="img/javascript.png" width="20" height="20" alt="JavaScript" align="center"/></a> <a href="https://www.typescriptlang.org/"><img src="img/typescript.png" width="20" height="20" alt="TypeScript" align="center"/></a></li>
   <li><b>Stylization</b>: <a href="https://sass-lang.com/"><img src="img/sass.png" width="20" height="20" alt="Sass" align="center"/></a> <a href="https://styled-components.com/"><img src="img/styled-components.png" width="20" height="20" alt="Styled Components" align="center"/></a></li>
