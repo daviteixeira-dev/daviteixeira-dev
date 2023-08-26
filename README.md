@@ -3,7 +3,7 @@
 > ✍🏾 Briefly, talking a little about myself:
 <ul>
   <li>
-    I'm an <b><i>Information Systems</i></b> student at <a href="https://www.quixada.ufc.br/">UFC</a>, I work with <b><i>Front-end development</i></b> and <b><i>Automated Testing</i></b> and in my free time I like to do some cool projects.
+    I have a degree in <b><i>Information Systems</i></b> from <a href="https://www.quixada.ufc.br/">UFC</a>, I work with <b><i>Front-end development</i></b> and <b><i>Automated Testing</i></b> and in my free time I like to do some cool projects.
   </li>
 </ul>
 
