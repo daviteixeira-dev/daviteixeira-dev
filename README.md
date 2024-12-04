@@ -4,25 +4,11 @@
       <header>
         <h1>👋 Olá, eu sou o Davi Teixeira!</h1>
         <h2>🎯 Sobre Mim</h2>
-        <p>Sou um entusiasta de tecnologia apaixonado por desenvolver soluções inovadoras. Formado em Sistemas de Informação pela <b>Universidade Federal do Ceará - <a href="https://www.quixada.ufc.br/">UFC</a></b>, tenho experiência em JavaScript, React, Node.js, Jest, e Puppeteer, além de um forte interesse por automação de testes. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento full-stack e criar estruturas de testes eficientes e escaláveis, desta forma estou sempre buscando aprender e aplicar novas habilidades em meus projetos.</p>
+        <p>Sou um Desenvolvedor de Software com 3 anos de experiência, formado em Sistemas de Informação pela <b>Universidade Federal do Ceará - <a href="https://www.quixada.ufc.br/">UFC</a></b>, especializado em 𝗗𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗶𝗺𝗲𝗻𝘁𝗼 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 e 𝗤𝘂𝗮𝗹𝗶𝗱𝗮𝗱𝗲 𝗱𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲. Tenho ampla experiência em 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗥𝗲𝗮𝗰𝘁𝗝𝗦 e 𝗡𝗼𝗱𝗲𝗝𝗦, desenvolvendo soluções que atendem a diversas necessidades, com foco em desempenho, escalabilidade e usabilidade.</p>
         <a href="https://app.daily.dev/daviteixeira-btm">
           <img align="right" src="https://github.com/daviteixeira-btm/daviteixeira-btm/blob/main/devcard.svg" width="300" alt="Davi Teixeira's Dev Card"/>
         </a>
       </header>
-      <section>
-        <h3>🌟 Experiência Profissional</h3>
-        <ul>
-          <li>
-            <b>QA na HeavyConnect</b>: Participei ativamente na automação de processos de testes, garantindo a qualidade e eficiência contínuas. Trabalhei com Jest e Puppeteer em um ambiente AngularJS, onde minha atuação ajudou a melhorar significativamente a estrutura de testes automatizados.
-          </li>
-          <li>
-            <b>Desenvolvedor Front-End na LEAD Dell</b>: Colaborei na migração de sistemas legados para tecnologias modernas como React e TypeScript, contribuindo para a implementação de novos recursos e a melhoria do desempenho dos sistemas.
-          </li>
-          <li>
-            <b>Diagramador Web na LEAD Dell</b>: Desenvolvi ferramentas de e-learning usando HTML5, CSS3, JavaScript e Bootstrap, focando na criação de designs responsivos e garantindo a acessibilidade do conteúdo educacional.
-          </li>
-        </ul>
-      </section>
       <section>
         <h3>
           🚀 Projetos em Destaque
