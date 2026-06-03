@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Davi Teixeira! / Hi, I'm Davi Teixeira!
 
-<a href="https://app.daily.dev/daviteixeira-btm" align="right">
+<a href="https://app.daily.dev/daviteixeira-dev" align="right">
   <img src="https://github.com/daviteixeira-dev/daviteixeira-dev/blob/main/devcard.svg" width="300" alt="Davi Teixeira's Dev Card" align="right" />
 </a>
 
